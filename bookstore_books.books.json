@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0e9"
+  },
+  "title": "Dế Mèn Phiêu Lưu Ký",
+  "author": "Tô Hoài",
+  "status": "có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0ea"
+  },
+  "title": "Số Đỏ",
+  "author": "Vũ Trọng Phụng",
+  "status": "không có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0eb"
+  },
+  "title": "Nhật Ký Trong Tù",
+  "author": "Hồ Chí Minh",
+  "status": "có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0ec"
+  },
+  "title": "Chí Phèo",
+  "author": "Nam Cao",
+  "status": "không có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0ed"
+  },
+  "title": "Tắt Đèn",
+  "author": "Ngô Tất Tố",
+  "status": "không có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0ee"
+  },
+  "title": "Lão Hạc",
+  "author": "Nam Cao",
+  "status": "có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0ef"
+  },
+  "title": "Tuyển Tập Truyện Ngắn",
+  "author": "Nguyễn Công Hoan",
+  "status": "có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0f0"
+  },
+  "title": "Đất Rừng Phương Nam",
+  "author": "Đoàn Giỏi",
+  "status": "có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0f1"
+  },
+  "title": "Hồi Ký",
+  "author": "Nguyễn Ái Quốc",
+  "status": "không có sẵn",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "66dacb0974b0f71b075bd0f2"
+  },
+  "title": "Kính Vạn Hoa",
+  "author": "Nguyễn Nhật Ánh",
+  "status": "có sẵn",
+  "borrowedBooks": []
+}]
